@@ -6,7 +6,6 @@
 # Skills
 - Python, SQL, Numpy, pandas, Matplotlib, Seaborn, scikit-learn, Tensorflow, Git & GitHub, Streamlit, Markdown, Jupyter Notebooks
 
-![Python| 50*50](https://user-images.githubusercontent.com/106975568/172219059-f0c1d4cc-a83d-4e5e-bd14-1407c7ff87db.png)
 
 <!---
 TOMAp-Gaurav/TOMAp-Gaurav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
