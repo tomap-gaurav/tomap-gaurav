@@ -4,7 +4,7 @@
 - I am extremely passionate about the role data plays in various business domains.
 
 # Skills
-- Python, SQL, Numpy, pandas, Matplotlib, Seaborn, scikit-learn, Git & GitHub, Streamlit, Tableua, Jupyter Notebooks, Kaggle
+- Python, SQL, Numpy, pandas, Matplotlib, Seaborn, scikit-learn, Git & GitHub, Streamlit, Tableau, Jupyter Notebooks, Kaggle
 
 
 <!---
