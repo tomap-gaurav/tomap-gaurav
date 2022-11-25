@@ -2,7 +2,7 @@
 - 👀 I’m interested in application of machine learning algorithms in data analysis.
 - 🎓 I have done my MSc in Physical Chemistry then pursued business analysis domain with 'Business Analytics & Optimisation' certification from Indian Institute of Technology, Delhi.
 - I am extremely passionate about the role data plays in various business domains.
-- Trying to make Python my b**ch.
+- Learning to make machines learn. :neckbeard:
 
 # Skills
 - Python, SQL, Numpy, pandas, Matplotlib, Seaborn, scikit-learn, Git & GitHub, Streamlit, Tableau, Jupyter Notebooks, Kaggle
