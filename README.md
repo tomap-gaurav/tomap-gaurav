@@ -6,7 +6,7 @@ Source : https://gprm.itsvg.in/
 
 
 # 💫 About Me:
-😃 Hi, I am Gaurav Tomar. I am currently working on making machines learn stuff.<br>🤝 I am looking to collaborate on data science projects.<br>📋 Fun fact : 'Tomar' in Russian is written as 'томар' and that's where my profile name comes from.<br> Visit my [website](https://tomap-gaurav.github.io/) for my current projects.
+😃 Hi, I am Gaurav Tomar. I am currently working on making machines learn stuff.<br>🤝 I am looking to collaborate on data science projects.<br>📋 Fun fact : 'Tomar' in Russian is written as 'томар' and that's where my profile name comes from.<br>🌐 Visit my [website](https://tomap-gaurav.github.io/) for my current projects.
 
 
 ## 🌐 Socials:
